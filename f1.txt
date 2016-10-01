@@ -1,3 +1,5 @@
 line 1
 added line 2
 change file one on issue 1 branch
+working in some changes
+now i can finish them
